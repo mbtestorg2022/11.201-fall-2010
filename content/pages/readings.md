@@ -232,7 +232,7 @@ Rohatyn, Felix G. "The Interstate Highway System." In _Bold Endeavors_. New York
 Facilitated session with Ceasar McDowell
 {{< tdclose >}}
 {{< tdopen >}}
-McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack." In _Race, Class, and Gender in the United States: An Integrated Study_. Edited by Paula S. Rothenberg. Worth Publishers, 1999, pp. 188-192. ISBN: 9781429217880. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.deanza.edu/faculty/lewisjulie/WhitePrivilege.pdf))
+McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack." In _Race, Class, and Gender in the United States: An Integrated Study_. Edited by Paula S. Rothenberg. Worth Publishers, 1999, pp. 188-192. ISBN: 9781429217880. ([PDF](http://www.deanza.edu/faculty/lewisjulie/WhitePrivilege.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +256,7 @@ The necessity of planning/response to the Depression
 
 Keynes, John Maynard. "Concluding Notes." In _The General Theory of Employment, Interest and Money_. Martino Fine Books, 2011. ISBN: 9781891396687.
 
-Klosterman, Richard E. "Arguments for and Against Planning." _The Town Planning Review_ 56, no. 1 (January 1985): 5-20. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.urban-is.de/Annex/HTML/Kap1/F%FCr&Wider-Planung/Klosterman-for&against_planning.pdf))
+Klosterman, Richard E. "Arguments for and Against Planning." _The Town Planning Review_ 56, no. 1 (January 1985): 5-20. ([PDF](http://www.urban-is.de/Annex/HTML/Kap1/F%FCr&Wider-Planung/Klosterman-for&against_planning.pdf))
 
 Ward, Stephen V. "War, Reconstruction and Depression I: The Major Traditions." In _Planning the Twentieth-­Century City: The Advanced Capitalist World_. Academy Press, 2002, pp. 81-126. ISBN: 9780471490982.
 
@@ -370,9 +370,9 @@ Myrdal, Gunnar. "International Inequality and Foreign Aid in Retrospect." In _Pi
 
 Myint, Hla. "Comment." In _Pioneers in Development_. Edited by P. T. Bauer, Gerald M. Meier, and Dudley Seers. New York: Published for the World Bank, Oxford University Press, 1984.
 
-Bruton, Henry J. "A Reconsideration of Import Substitution." _Journal of Economic Literature_ 36, no. 2 (June 1998): 903-936. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.jstor.org/stable/2565125))
+Bruton, Henry J. "A Reconsideration of Import Substitution." _Journal of Economic Literature_ 36, no. 2 (June 1998): 903-936. ([PDF](http://www.jstor.org/stable/2565125))
 
-Lewis, W. Arthur. "Economic Development with Unlimited Supplies of Labour." _The Manchester School_ 22, no. 2 (1954): 139-191. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://la.utexas.edu/users/hcleaver/368/368lewistable.pdf))
+Lewis, W. Arthur. "Economic Development with Unlimited Supplies of Labour." _The Manchester School_ 22, no. 2 (1954): 139-191. ([PDF](https://la.utexas.edu/users/hcleaver/368/368lewistable.pdf))
 
 Rostow, W. W. "[The Five Stages of Growth-A Summary](https://www.tutor2u.net/economics/reference/rostow-five-stages-of-economic-growth-model)." In _The Stages of Economic Growth: A Non-­Communist Manifesto_. Cambridge \[England\]: Cambridge University Press, 1960, pp. 4-16.
 
@@ -542,13 +542,13 @@ Hirschman, A. O., and C. E. Lindblom. "[Economic Development, Research and Devel
 
 ### Recommended Readings
 
-Lindblom, Charles. "The Science of "Muddling Through." _Public Administration Review_ 19, no. 2 (Spring 1959): 79-88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://www.emerginghealthleaders.ca/resources/Lindblom-Muddling.pdf))
+Lindblom, Charles. "The Science of "Muddling Through." _Public Administration Review_ 19, no. 2 (Spring 1959): 79-88. ([PDF - 1.6MB](http://www.emerginghealthleaders.ca/resources/Lindblom-Muddling.pdf))
 
 Hudson, Barclay M., Thomas D. Galloway, and Jerome L. Kaufman "[Comparison of Current Planning Theories: Counterparts and Contradictions](http://www.informaworld.com/smpp/content~content=a787361255~db=all)." _Journal of the American Planning Association_ 45, no. 4 (1979): 387.
 
 Alexander, Ernest R. _Approaches to Planning: Introducing Current Planning Theories, Concepts, and Issues_. 2nd ed. Philadelphia: Gordon and Breach Science Publishers, 1992. ISBN: 9782881245145.
 
-Friedmann, John. "Toward a Non-Euclidian Mode of Planning." _Journal of the American Planning Association_ 59, no. 4 (1993): 482. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://dx.doi.org/10.1080/01944369308975902))
+Friedmann, John. "Toward a Non-Euclidian Mode of Planning." _Journal of the American Planning Association_ 59, no. 4 (1993): 482. ([PDF](http://dx.doi.org/10.1080/01944369308975902))
 
 ———. _Planning in the Public Domain: From Knowledge to Action_. Princeton, NJ: Princeton University Press, 1987. ISBN: 9780691022680.
 
@@ -562,13 +562,13 @@ Hirschmann, A. O., and C. E. Lindblom. "[Economic Development, Research and Deve
 
 ### Recommended Readings
 
-Lindblom, Charles E. "The Science of "Muddling Through."" _Public Administration Review_ 19, no. 2 (Spring 1959): 79-88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://www.emerginghealthleaders.ca/resources/Lindblom-Muddling.pdf))
+Lindblom, Charles E. "The Science of "Muddling Through."" _Public Administration Review_ 19, no. 2 (Spring 1959): 79-88. ([PDF - 1.6MB](http://www.emerginghealthleaders.ca/resources/Lindblom-Muddling.pdf))
 
 Hudson, Barclay M., Thomas D. Galloway, and Jerome L. Kaufman. "[Comparison of Current Planning Theories: Counterparts and Contradictions](http://www.informaworld.com/smpp/content~content=a787361255~db=all)." _Journal of the American Planning Association_ 45, no. 4 (1979): 387.
 
 Alexander, Ernest R. _Approaches to Planning: Introducing Current Planning Theories, Concepts, and Issues_. CRC Press, 1992. ISBN: 9782881245145.
 
-Friedmann, John. "Toward a Non-Euclidian Mode of Planning." _Journal of the American Planning Association_ 59, no. 4 (1993): 482.(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://dx.doi.org/10.1080/01944369308975902))
+Friedmann, John. "Toward a Non-Euclidian Mode of Planning." _Journal of the American Planning Association_ 59, no. 4 (1993): 482.([PDF](http://dx.doi.org/10.1080/01944369308975902))
 
 ———. _Planning in the Public Domain: From Knowledge to Action_. Princeton University Press, 1987. ISBN: 9780691022680.
 
@@ -612,7 +612,7 @@ Advocacy and radical planning (Phil Thompson)
 
 ### Required Readings
 
-Davidoff, Paul. "Advocacy and Pluralism in Planning." _Journal of the American Planning Association_ 31, no. 4 (1965): 331-338. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://urbanpolicy.net/wp-content/uploads/2012/11/Davidoff_1965_Advocacy-and-pluralism-in-planning.pdf))
+Davidoff, Paul. "Advocacy and Pluralism in Planning." _Journal of the American Planning Association_ 31, no. 4 (1965): 331-338. ([PDF](http://urbanpolicy.net/wp-content/uploads/2012/11/Davidoff_1965_Advocacy-and-pluralism-in-planning.pdf))
 
 Peattie, Lisa R. "[Reflections on Advocacy Planning](http://www.informaworld.com/smpp/content~db=all~content=a787397896~frm=abslink)." _Journal of the American Planning Association_ 34, no. 2 (1968): 80-88.
 
@@ -698,13 +698,13 @@ Montgomery, Roger. "[Is There Still Life in the Death and Life?](http://www.info
 
 Shirky, Clay. "It Takes a Village to Find a Phone" and "Epilogue." _Here Comes Everybody: The Power of Organizing Without Organizations_. Penguin Press, 2008, pp. 1-24, and 293-304. ISBN: 9780143114949.
 
-Bachrach, Peter, and Morton S. Baratz. "Two Faces of Power." _The American Political Science Review_ 56, no. 4 (December 1962): 947-952. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.columbia.edu/itc/sipa/U6800/readings-sm/bachrach.pdf))
+Bachrach, Peter, and Morton S. Baratz. "Two Faces of Power." _The American Political Science Review_ 56, no. 4 (December 1962): 947-952. ([PDF](http://www.columbia.edu/itc/sipa/U6800/readings-sm/bachrach.pdf))
 
 Lukes, Steven. "Power: A Radical View." _Power: A Radical View_. Palgrave Macmilan, 2004, pp. 14-59. ISBN: 9780333420928.
 
 Arnstein, Sherry R. "[A Ladder of Citizen Participation](http://lithgow-schmidt.dk/sherry-arnstein/ladder-of-citizen-participation.html)." _Journal of the American Institute of Planners_ 35, no. 4 (1969): 216-224.
 
-Fung, A. "Varieties of Participation in Complex Governance." _Public Administration Review_ 66 (2006): 66-75. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://faculty.fiu.edu/~revellk/pad3003/Fung.pdf))
+Fung, A. "Varieties of Participation in Complex Governance." _Public Administration Review_ 66 (2006): 66-75. ([PDF](https://faculty.fiu.edu/~revellk/pad3003/Fung.pdf))
 
 Museum of the City of New York. [_Legacy of Robert Moses_](http://www.c-spanvideo.org/program/196505-1). February 1, 2007. \[video\]. Focus on: NYC deputy Mayor Dan Doctoroff \[0:00 to 22:00\]; Majora Carter \[141:45 to 53:00\]; Questions and Answers \[104:30 to 117:00\]
 
@@ -728,7 +728,7 @@ Top down planning
 
 ### Required Readings
 
-Sanyal, Bishwapriya. "The Myth of Development from Below." _Annual Meeting of the Association of Collegiate Schools of Planning_. Pasadena, CA, 1998. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sanyal/www/articles/Myth%20of%20Dev.pdf))
+Sanyal, Bishwapriya. "The Myth of Development from Below." _Annual Meeting of the Association of Collegiate Schools of Planning_. Pasadena, CA, 1998. ([PDF](http://web.mit.edu/sanyal/www/articles/Myth%20of%20Dev.pdf))
 
 Caro, Robert. _The Power Broker: Robert Moses and the Fall of New York_. Vintage, 1975. ISBN: 9780394720241.
 
@@ -974,9 +974,9 @@ e-Governance (Joe Ferreira)
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691994) Sanya, Bishwapriya, and Donald A. Schön. "Information Technology and Urban Poverty: The Role of Public Policy." In [_High Technology and Low-Income Communities: Prospects for the Positive Use of Advanced Information Technology_](https://mitpress.mit.edu/9780262691994). Edited by Donald A. Schön, Bishwapriya Sanyal, and William J. Mitchell. MIT Press, 1999. ISBN: 9780262691994.
 
-Fountain, J. E. "The Virtual State: Transforming American Government?" _National Civic Review_ 90, no. 3 (2001): 241-52. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://academic.udayton.edu/richardghere/org%20theory%202010/ot%202011/pdf/Fountain_Jane_E.pdf))
+Fountain, J. E. "The Virtual State: Transforming American Government?" _National Civic Review_ 90, no. 3 (2001): 241-52. ([PDF](http://academic.udayton.edu/richardghere/org%20theory%202010/ot%202011/pdf/Fountain_Jane_E.pdf))
 
-Cecchini, Simone, and Monica Raina. "Electronic Government and the Rural Poor: The Case of Gyandoot." _Information Technologies and International Development_ 2, no. 2 (2004): 65-75. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/24090515_Electronic_Government_and_the_Rural_Poor_The_Case_of_Gyandoot))
+Cecchini, Simone, and Monica Raina. "Electronic Government and the Rural Poor: The Case of Gyandoot." _Information Technologies and International Development_ 2, no. 2 (2004): 65-75. ([PDF](https://www.researchgate.net/publication/24090515_Electronic_Government_and_the_Rural_Poor_The_Case_of_Gyandoot))
 
 ### Recommended Readings
 

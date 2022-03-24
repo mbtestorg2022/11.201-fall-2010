@@ -41,7 +41,7 @@ Regions: The economics and politics of territory ([PDF]({{< baseurl >}}/resource
 {{< tdopen >}}
 
 
-Against regionalism  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.9MB]({{< baseurl >}}/resources/mit11_201f10_ses6_slides))
+Against regionalism  ([PDF - 6.9MB]({{< baseurl >}}/resources/mit11_201f10_ses6_slides))
 
 (Courtesy of Karen Polenske. Used with permission.)
 
